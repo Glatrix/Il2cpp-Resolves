@@ -2046,3 +2046,4 @@ UnityEngine.Windows.WebCam.VideoCapture::Dispose_Internal()
 UnityEngine.Windows.WebCam.VideoCapture::DisposeThreaded_Internal()
 UnityEngineInternal.Input.NativeInputSystem::set_hasDeviceDiscoveredCallback(System.Boolean)
 ```
+
