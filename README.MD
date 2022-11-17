@@ -1,4 +1,4 @@
-Dont forget to Star if you find this helpful!!!
+
 ```C#
 
       TOKEN: 100663306 Attributes: [CompilerControlled, Public, Static, HideBySig] ImplAttributes: [IL, InternalCall]
